@@ -1,4 +1,4 @@
-jsonp_callback({
+{
   "pagination": {
     "next_url": "https://raw.githubusercontent.com/xupea/photos/master/hiking/shenzhen_dongxichong_across/feed3.json",
     "next_max_id": ""
@@ -619,4 +619,4 @@ jsonp_callback({
       }
     }
   ]
-})
+}
