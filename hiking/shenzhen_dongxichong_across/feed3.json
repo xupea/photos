@@ -1,4 +1,4 @@
-jsonp_callback({
+{
   "pagination": {
   },
   "meta": {
@@ -251,4 +251,4 @@ jsonp_callback({
       }
     }
   ]
-})
+}
